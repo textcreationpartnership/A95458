@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Two petitions of the county of Buckingham: as they were presented to both Houses, by knights, esquires, captaines, and gentlemen, with a very great number of freeholders, being the true copy as it was presented to the Houses of Parliament, Ianuary 11. 1641. As also the humble petition of the marriners and sea-men, inhabitants in and about the ports of London, and the river Thames. Together with the petition of the foure Innes of Court.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95458</idno><idno type="EEBO-CITATION">99860113</idno>
+  <idno type="VID">156339</idno>
+  <idno type="EEBO-PROQUEST">2248509290</idno>
+  
+            <idno type="STC">Wing T3503</idno>
+            <idno type="STC">Thomason E131_20</idno>
+            <idno type="STC">ESTC R1691</idno>
+            <idno type="PROQUEST">99860113</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860113e"/>
+            <note>(EEBO-TCP ; phase 2, no. A95458)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156339)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E131[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Two petitions of the county of Buckingham: as they were presented to both Houses, by knights, esquires, captaines, and gentlemen, with a very great number of freeholders, being the true copy as it was presented to the Houses of Parliament, Ianuary 11. 1641. As also the humble petition of the marriners and sea-men, inhabitants in and about the ports of London, and the river Thames. Together with the petition of the foure Innes of Court.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>for F. Coles, &amp; T. Banks,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Church and state --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Buckinghamshire (England) --  History --  Sources --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156339:1"/>
+            <p>THE TWO PETITIONS OF THE County of Buckingham: As they were presented to both Houses, by <hi>Knights, Esquires, Captaines,</hi> and <hi>Gentlemen,</hi> with a very great number of <hi>Freeholders,</hi> being the true Copy as it was presented to the Houses of PARLIAMENT, <hi>Ianuary</hi> 11. 1641.</p>
+            <p>AS ALSO The humble Petition of the <hi>Marriners</hi> and <hi>Sea-men,</hi> Inhabitants in and about the ports of <hi>London,</hi> and the River <hi>Thames.</hi>
+            </p>
+            <p>Together with The Petition of the foure Innes of COURT.</p>
+            <p>Printed at London for <hi>F. Coles,</hi> &amp; <hi>T. Banks,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:156339:2"/>
+            <head>The humble Petition of the Gentlemen of the foure Innes of Court, to the House of <hi>COMMONS.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat you will be pleased to reflect upon the Honourable service of God, to behold him in his Throne and dignity, that thereby the poore Protestants of this Kingdome, between the two ex<g ref="char:EOLhyphen"/>tremities of zeale, may not suffer a distraction in Religion.</p>
+            <p>That you will be pleased to serve Gods annointed, his im<g ref="char:EOLhyphen"/>mediate Vice-gerent, our true and lawfull Soveraigne Lord the King, in his person and all his Regall dignities and lawfull immunities, without any im<g ref="char:EOLhyphen"/>peachment of his Regality, in whose honour the reputation of the three Kingdomes depend.</p>
+            <p>That you will be pleased to ratifie and confirme all things, both concer<g ref="char:EOLhyphen"/>ning his Majesty and the state of this Kingdome, as they were in those bles<g ref="char:EOLhyphen"/>sed daies of Qu <hi>Elizabeth,</hi> and <hi>K Iame<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> that we may thereby live in these latter and turbulent times with as much peace to our consciences, with as much dignity to our Nation, in as true love and obedience to our lawfull Soveraigne, and with as much libertie and liberality of our fortunes, as our fore-fathers heretofore have done.</p>
+            <p>That you will not suffer learning to be defaced, nor discountenanced by the ignorant but rather that you will be pleased to advance it to its digni<g ref="char:EOLhyphen"/>ty, it being the maine supporter of lawfull obedience, of Order, civility, and regularity in all sorts.</p>
+            <p>That you will be pleased to qualifie the exorbitances of the Separatists and disorderly persons, that thereby the City of London, and the Suburbs, may be disburthened from their continuall care and feares, besides their losse of time, health▪ and fortunes, which by their Trainbands, double and treble Watches and wards they continually doe su<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>taine.</p>
+            <p>That you will be ple<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sed, as the State by election hath made you mem<g ref="char:EOLhyphen"/>bers of this Honourable House, and adopted you our Fathers, to governe our Fortunes, to establish our Lawes, and to regulate our actions; So we now beseech you, to satisf<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e our consciences, to preserve our reputations, and to admit of a li<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erall and free discourse in Parliament concerning all these particulars without interruption or feare of punishment, that there<g ref="char:EOLhyphen"/>by the glory of God may be exalted, the dignity of our King and Kingdom may be preserved, the Immun<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ties of your House, according to the ancient Custome of England continued, all precipitated tumults appeased, and all discords amongst us peaceably united, the valiant and renowned Actions of our Predecessors revived, our totte<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing Fortunes established, our King and Kingdomes united, that so our minds and consciences may be fully satisfied.</p>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:156339:2"/>
+            <head>To the Honourable the Knights, Citizens and Burgesses, of the House of COMMONS, now assembled in PARLIAMENT.</head>
+            <head type="sub">
+               <hi>The humble Petition of the Inhabitants of the County of</hi> BUCKINGHAM,</head>
+            <p>Sheweth,</p>
+            <p>
+               <seg rend="decorInit">T</seg>Hat whereas for many yeers past we have been under very great pressures (which are cleerly set forth in the late Remonstrance of the <hi>House of Commons;</hi> the redresse thereof which hath for a long time been by you en<g ref="char:EOLhyphen"/>deavoured with unwearied paines, though not with answerable successe, having still your endeavours frustrated or retarded, and we de<g ref="char:EOLhyphen"/>prived of the fruit thereof, by a malignant faction of Popish Lords, Bishops and others, and now of late, to take from us all that little hope was left of a future Reformation: the very being of the PARLIAMENT
+<pb facs="tcp:156339:3"/>shaken, and by the mischievous practises of most wic<g ref="char:EOLhyphen"/>ked Counsellors, the priviledges thereof broken in an unexampled manner, and the members thereof un<g ref="char:EOLhyphen"/>assured of their lives, in whose safety, the safety of us and our posterity is involved. We held it our duty, ac<g ref="char:EOLhyphen"/>cording to our late Protestation to defend and main<g ref="char:EOLhyphen"/>taine the same persons and priviledges, to the utmost expence of our lives and estates.</p>
+            <p>To which purpose we are now come to make the humble tender of our service, and remaine in expe<g ref="char:EOLhyphen"/>ctation of your Command and Order; to the execu<g ref="char:EOLhyphen"/>tion whereof, we shall with all alacrity addresse our selves, ready to live by you, or to die at your feet, a<g ref="char:EOLhyphen"/>gainst whomsoever shall in any sort illegally attempt upon you.</p>
+            <p>MAy it therefore please this Honourable Assem<g ref="char:EOLhyphen"/>bly to assist the ardent prayer of your poore Pe<g ref="char:EOLhyphen"/>titioners, that Popish Lords and Bishops may be forth<g ref="char:EOLhyphen"/>with outed the House of Peeres, that all priviledges of PARLIAMENT (Yours and our posterities inheri<g ref="char:EOLhyphen"/>tance) may be confirmed to you, and that all evill Counsellors, the <hi>Achans</hi> of this Common-wealth, may be given up to the hand of Iustice; without all which your petitioners have not the least hope of Israels peace, or to reap those glorious advantages, which the fourteene moneths seed-time of Your unparalleld endeavours hath given to their unsatisfied expecta<g ref="char:EOLhyphen"/>tions:</p>
+            <closer>So your Petitioners will be bound to pray, &amp;c.</closer>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:156339:3"/>
+            <head>To the Right Honourable the House of PEERES now assembled in PARLIAMENT.</head>
+            <head type="sub">
+               <hi>The Humble Petition of the Inhabitants of the County of</hi> BUCKINGHAM,</head>
+            <p>
+               <hi>Sheweth,</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">T</seg>Hat whereas wee hoped upon the happy assembly of this present <hi>Parliament</hi> wee should have had a speedy redresse of those great pressures, we had for many yeares beene under, but have hitherto beene in great measure frustrate of our hopes by the strange Counterworking of a malignant faction, wher<g ref="char:EOLhyphen"/>by the perfecting of Reformation is hindered, the en<g ref="char:EOLhyphen"/>deavours of the <hi>House of Commons,</hi> in great part suc<g ref="char:EOLhyphen"/>cesselesse, our dangers growne upon us by iterated plots, Priests and other delinquents unpunished, to the encouragement of others, <hi>Ireland</hi> neer lost by pro<g ref="char:EOLhyphen"/>tract d Counsels, while Thousands are there butche<g ref="char:EOLhyphen"/>red by immane cruelties, and to cut off all hopes of future reformation, the very being of our <hi>Parliaments</hi> indangered by desperate and unexampled breach of
+<pb facs="tcp:156339:4"/>Priviledges, which by our Protestation lately taken we are bound with our lives and estates to maintaine, And in respect of that late attempt upon the Honourable <hi>House of Commons,</hi> we are now come to offer our ser<g ref="char:EOLhyphen"/>vice to that end, as resolved in their just defence to live and dye.</p>
+            <p>ANd do therefore humbly pray, that this most Ho<g ref="char:EOLhyphen"/>nourable <hi>House</hi> will cooperate with the house of <hi>Commons,</hi> in most speedy perfecting the most ne<g ref="char:EOLhyphen"/>cessary worke of Reformation, bringing to condigne and exemplary punishment both wicked Counsellors and other plotters and delinquents: That <hi>Ireland</hi> may be speedily relieved, the Priviledges of <hi>Parliament</hi> fortified against all future attempts, And the whole Kingdome put into such a present posture of defence, that we may be safe both from all practise of the ma<g ref="char:EOLhyphen"/>lignant party at home, and the endeavours of <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y ill affected States abroad,</p>
+            <closer>And they shall pray, &amp;c.</closer>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:156339:4"/>
+            <head>To the Honorable, the Knights, Citizens, and Burgesses of the <hi>Commons,</hi> assembled in Parliament.</head>
+            <head type="sub">
+               <hi>The humble Petition of the Marriners and Sea-men, In<g ref="char:EOLhyphen"/>habitants, in, and about the Ports of</hi> London, <hi>and River of</hi> Thames,</head>
+            <p>
+               <hi>Shewing,</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">T</seg>Hat they with all submisse acknowledgment do conjoyne with the Citizens and common Counsell-men of Lon<g ref="char:EOLhyphen"/>don, in the Petition lately presented to this Honourable Assembly, in their hearty thankfulnesse for the great paines and care taken by you, in seeking out the roote and remedies of those monstrous evils of late happening to both Church and Common-wealth; which although it hath not taken that full effect, which was by you desired, Yet your endeavours was not thereby lessened, nor are any way (we hope) discouraged.</p>
+            <p>As the pressures of the Kingdome are many, so are they weighty, and at large expressed in your late Remonstrance; amongst which, as those your Petitioners are most sensible of (and they, their wives and children, too heavily feele the burthen of) is the decay of Trade, and lying still of the Ships, which hath occasioned many Sea-men to leave this land, and seeke employment in other Countries, Men being at such a straight that they durst not adventure their ships, nor estates in forraigne parts, in regard things are not as yet setled, neither in England nor Ireland, and that the Papists remaine as stout, strong, and insolent, as formerly, Which under favour they conceive to arise, by reason of the continuance of the Vote of the Popish Lords and Bi<g ref="char:EOLhyphen"/>shops in the House of Peeres. Your Petitioners having had sad expe<g ref="char:EOLhyphen"/>rience by their Travels in Forreigne parts, what evils and miseries, that Religion, and men of those spirits have brought forth, which doth justly occasion your Petitioners, utterly to abominate and abhorre their Religion, and most unjust practises.</p>
+            <p>From which grounds the Petitioners cannot omit to represent un<g ref="char:EOLhyphen"/>to you the great terrors, and feares, and distractions that they lie un<g ref="char:EOLhyphen"/>der, of a sudden surprise by their bloudy hands, by meanes whereof, the trading of the City and Kingdome is much more of late decayed, then it hath beene for many yeares past; no man following his trade cheerefully, whilest the lives of himselfe, and family, and the publique safety of the Kingdome are in jeopardy, and whiles he knoweth not
+<pb facs="tcp:156339:5"/>how soone they may feele the like cruelty and inhumanity from the Papists, and their adherents, as those in Ireland have done: which if e<g ref="char:EOLhyphen"/>ver it shall happen; This Honorable Assembly must expect to have a deepe share in the malice and cruelty, against whom they have alrea<g ref="char:EOLhyphen"/>dy by themselves, and their abettors endeavoured to raise a dis-respect in the hearts of the people to divide between the Kings Majesty and the Parliament.</p>
+            <p>To the end therefore, that the destructive plots of the Papists and their adherents may be defeated, the ground of their hopes, and inso<g ref="char:EOLhyphen"/>lences removed, considerable forces with expedition sent to subdue those abominable and bloudy Rebels in Ireland, The petitioners freed from their feares, incouraged in their calling, and in due time obtaine their wonted imployments and traffique, the want whereof, causeth the whole land to mourne.</p>
+            <p>It is humbly prayed, that you will vouchsafe to be a meanes to the Kings Ma<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esty, and House of Peeres, that life may be given to your good endeavours, by their concurrence with you in the punishment of delinquents, and redressing the pressures and grievances in the Church and Common-wealth: And for the better effecting hereof, that the Popish Lords and Bishops, may be removed out of the House of Peeres, as was desired in the presence of divers of this Honorable Assembly, by the representative body of the City of London, in Guildhall.</p>
+            <p>And the Petitioners who wel know that their own safeties are wrapt up in yours, shall not faile to put up dayly prayers to Almighty God for your good successe, and maintaine and defend to the utmost ha<g ref="char:EOLhyphen"/>zard of their lives and estates, according to the late Protestation, the Kings Majesty, and High Court of Parliament, against all wicked Councels and malignant opposers, or that endeavour, by secret plots, or open force, to prejudice the one or the other: And to make divisi<g ref="char:EOLhyphen"/>on between his Majesty and the Parliament, whom God, and the lives of the Commons, have united into so neere a relation. And it is not unknown unto your Honours, that upon any forraigne invasion, or en<g ref="char:EOLhyphen"/>terprises, your Petitioners estates and lives must be formost.</p>
+            <closer>
+               <hi>And your Petitioners shall every pray, &amp;c.</hi>
+            </closer>
+            <postscript>
+               <p>This Petition was subscribed by many thousands, and presen<g ref="char:EOLhyphen"/>ted to the Committee of the Honourable House of Commons at Grocers-Hall, <date>8. <hi>Ianuary</hi> 1641.</date>
+               </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
